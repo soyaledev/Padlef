@@ -1,0 +1,14 @@
+# Conversión y procesamiento
+weasyprint>=62.0
+markdown2>=2.4.0
+Pygments>=2.17.0
+
+# Interfaz gráfica
+PyQt6>=6.7.0
+
+# Empaquetado
+pyinstaller>=6.10.0
+
+# Utilidades
+pillow>=10.0.0
+
